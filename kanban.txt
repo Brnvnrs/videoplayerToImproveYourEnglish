@@ -1,7 +1,7 @@
 To Do:
 *Check the resolution from the video when it is uploaded
 *I need to check the file ".str", how can i acces to the words? 
-*i need to create a button to update the subtitles  
+*i need to create a button to upload the subtitles  
 ####################################################################################################
 Doing
 *creating the main class
