@@ -2,6 +2,8 @@ To Do:
 *Check the resolution from the video when it is uploaded
 *I need to check the file ".str", how can i acces to the words? 
 *i need to create a button to upload the subtitles  
+
+*I have to find a library which I can find the meaining from the words - Done I'm gonna use this API: https://dictionaryapi.dev/
 ####################################################################################################
 Doing
 *creating the main class
@@ -12,5 +14,3 @@ take the file .str => fetch the API (but is it be in the cache i dont use the AP
 Done
 
 *I need to find a website where i can dowload the video and the subtitles  - Done: I find www.opensubtitles.org
-
-*I have to find a library which I can find the meaining from the words - Done I'm gonna use this API: https://dictionaryapi.dev/
