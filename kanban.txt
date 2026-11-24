@@ -3,7 +3,8 @@ To Do:
 *I need to check the file ".str", how can i acces to the words? 
 *i need to create a button to upload the subtitles  
 
-*I have to find a library which I can find the meaining from the words - Done I'm gonna use this API: https://dictionaryapi.dev/
+*I have to find a ddbb with the meanning of the words. i've found some api's but it brings problems with the request.
+* I've found this https://open-dictionary.github.io/dictionaries/en/words/thank, It'll be able to work. 
 ####################################################################################################
 Doing
 *creating the main class
